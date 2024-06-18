@@ -1,0 +1,14 @@
+{
+  "user": {
+    "name": "Tomas",
+    "age": 23,
+    "surname": "Smit",
+    "email": "TSmit@gmail.com",
+    "Groups": {
+      "GrupName": "BV221",
+      "Curs": "RPO",
+      "Grade": "12" 
+    }
+  }
+
+}

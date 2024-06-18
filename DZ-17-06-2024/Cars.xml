@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<Car>
+		<Marka>Toyota Supra</Marka>
+		<Engine>2JZ</Engine>
+		<KPP>RKPP</KPP>
+		<Body>Sedan</Body>
+		<Price>6300000</Price>
+	</Car>
+</configuration>

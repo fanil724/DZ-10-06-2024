@@ -1,0 +1,26 @@
+{
+  "name": "EndOfLine",
+  "boss": {
+    "name": "Ruslan",
+    "surname": "Zinnurov"
+  },
+  "employees": [
+    {
+      "name": "Anton",
+      "surname": "Krasnov"
+    },
+    {
+      "name": "Mihail",
+      "surname": "Ivanov"
+    },
+    {
+      "name": "Petr",
+      "surname": "Vlosov"
+    }
+  ],
+  "Company": {
+    "name": "Kamdizel",
+    "country": "RUSSIA"
+  }
+
+}

@@ -1,0 +1,15 @@
+﻿@using DZ_21_06.Models
+
+<div class="text-center">
+    <h1 class="display-4">Отдел: @Model.name</h1>
+    <p>Руководитель: @Model.boss.name @Model.boss.surname</p>
+    <ul>
+        @foreach (Employee emp in Model.employees)
+        {
+            <li>Сотрудник: @emp.name @emp.surname</li>
+        }
+    </ul>
+    <h4>Компания: @Model.company.name</h4>
+    <h4>Страна: @Model.company.Country</h4>
+
+</div>
